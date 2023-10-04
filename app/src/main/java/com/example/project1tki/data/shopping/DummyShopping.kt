@@ -2,7 +2,6 @@ package com.example.project1tki.data.shopping
 
 object DummyShopping {
     private val name = arrayOf(
-        //berikan nama nama toko yang beragam
         "Toko Makmur",
         "Toko Jaya",
         "Toko Sebelah",
@@ -16,7 +15,6 @@ object DummyShopping {
     )
 
     private val nameProduk = arrayOf(
-        //berikan nama nama baju acak dan beragam
         "Baju Kerja",
         "Baju Santai",
         "Sweter",
