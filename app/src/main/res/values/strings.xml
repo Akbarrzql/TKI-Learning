@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Project1 TKi</string>
+    <string name="shopping_bn">Shopping</string>
+    <string name="artists_bn">Artists</string>
+    <string name="friends_bn">Friends</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chip_txt1">Clothes</string>
+    <string name="chip_txt2">Shoes</string>
+    <string name="chip_txt3">Bags</string>
+    <string name="something_wrong">Tidak ada data</string>
+    <string name="popular_artist">Popular Artist</string>
+    <string name="search_artist">Cari Artist</string>
+    <string name="name_people">Name</string>
+    <string name="people_jobdesc">People</string>
+    <string name="invite_btn">Invite</string>
+    <string name="search_people">Search People</string>
+    <string name="message">Message</string>
+    <string name="rating">4.5</string>
+    <string name="jobdesc">Designer</string>
+    <string name="name_artist">Angela Mehra</string>
+    <string name="star">Star</string>
+    <string name="person">Person</string>
+</resources>
